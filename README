@@ -1,0 +1,13 @@
+To-Do List Application
+
+The To-Do List Application is a simple Java program that helps you keep track of your tasks. 
+Whether you need to jot down reminders, mark things as done, or update your to-dos, this app makes it easy. 
+You can add new tasks, mark them as completed, edit details, and delete them when they're no longer needed. 
+Depending on your preference, the app can be used as a basic console application or with a graphical interface using Swing or JavaFX.
+This project is built using Java, 
+and you can choose to store tasks in a file or a database if you want to save them for later. 
+Once you're up and running, just follow the menu options to add, mark, edit, or delete tasks. 
+It's a straightforward tool to help you stay organized. 
+If you'd like to improve it, feel free to contribute! Just fork the repo, make your changes, and submit a pull request. 
+The project is open-source and licensed under MIT. If you run into any issues or have suggestions, feel free to reach out. Happy coding!
+
